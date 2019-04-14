@@ -8,3 +8,5 @@ Run a script:
 ```
 cargo script scritp.rs
 ```
+
+Note: `cargo-script` does not work if the name of a script is equal to the name of a dependency.
